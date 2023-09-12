@@ -3,11 +3,15 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![profil](/assets/images/profile.png){: width="200" height="589" .left}
-Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra,
-sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien.
-Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat,
-elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien.
-In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus.
-Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam.
-Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
+![profil](/assets/images/profile.png){: width="200" height="589" .right}
+I have been thinking of starting a website for a while, a tool that would allow me to share thoughts and make unique connections.  
+ 
+This website has different purposes:
+- Structure and elaborate years of journal notes, reading and listening
+- Share my current challenges and hopefully solutions (accountability)
+- Motivate, inspire, federate people who recognize themself in this journey
+- Find people that thinks alike or on the contrary folks who would challenge my believes and push me beyond my dogmas
+- Becoming better at writting and doing in so in the English language
+- To push my introspection and concentration further
+- To force my creativity and proactivity in order to grow this site with quality content  
+(readings, writting, research, questionning, reflection, dialogue...)
