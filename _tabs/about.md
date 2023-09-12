@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![profil](/assets/images/profile.jpg){: width="200" height="589" .left}
+![profil](/assets/images/profile.png){: width="200" height="589" .left}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra,
 sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien.
 Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat,
