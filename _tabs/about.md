@@ -1,6 +1,5 @@
 ---
 # the default layout is 'page'
-# ![profil](/assets/images/profile.png){: width="200" height="589" .right}
 icon: fas fa-info-circle
 order: 4
 ---
