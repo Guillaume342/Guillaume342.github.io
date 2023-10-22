@@ -21,5 +21,5 @@ I chose the name the Jungle Book not because the Walt Disney cartoon is part of 
 was radically different from my counterparts but rather like Rudyard Kipling poem's _If-_, 
 I strive to clear a path in this economic, technological and social jungle of our time. 
 
-As of now, I would like to dissociate this blog from my professional life and remain anonymous in order to express myself 
+For the moment, I would like to dissociate this blog from my professional life and remain anonymous in order to express myself 
 with no filters as I would like to share eclectic and unconventional thoughts without impacting my career.
