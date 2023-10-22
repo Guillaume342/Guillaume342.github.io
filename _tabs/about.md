@@ -6,7 +6,8 @@ order: 4
 ---
 ![profil](/assets/images/jungle1.png){: width="200" height="589" .right}
 
-I have been thinking of starting a website for a while, a platform that would allow me to share thoughts and perhaps connect with likeminded people.
+I have been thinking of starting a website for a while, a platform that would allow me to share thoughts 
+and perhaps connect with likeminded people.
 
 This website has different purposes:
 
