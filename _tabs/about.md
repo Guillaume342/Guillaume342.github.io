@@ -1,9 +1,11 @@
 ---
 # the default layout is 'page'
+# ![profil](/assets/images/profile.png){: width="200" height="589" .right}
 icon: fas fa-info-circle
 order: 4
 ---
-![profil](/assets/images/profile.png){: width="200" height="589" .right}
+![profil](/assets/images/jungle1.png){: width="400" height="800".right}
+
 I have been thinking of starting a website for a while, a tool that would allow me to share thoughts and make unique connections.  
 
 This website has different purposes:
